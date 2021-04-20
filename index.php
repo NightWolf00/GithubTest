@@ -1,3 +1,3 @@
 <?php
-echo("Person 1 1 1");
+echo("Person One");
 
